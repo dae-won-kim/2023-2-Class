@@ -1,1 +1,5 @@
-2023 - 2 semester DirectX and React Project
+2023 - 2 semester 
+- Computer Grapyics
+- System Programming
+- Data Structure
+  
